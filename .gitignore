@@ -8,4 +8,7 @@ score_based/SGD/results/all/quality_hitlists_1.1
 score_based/SGD/results/all/quality_hitlists_2.1
 score_based/SGD/results/hm_all/quality_hitlists_1.1
 score_based/SGD/results/hm_all/quality_hitlists_2.1
+score_based/SGD/PCs_2d.csv
+score_based/SGD/plotX.csv
 git_steps.txt
+score_based/SGD/score_basedph4_classification_SGD-4cluster_then_predict_undersampled-subsets-scalingbeforekmeans.ipynb

@@ -1,0 +1,2 @@
+s_score,Hits,max_feat,avg_feat,max_centr,min_centr,avg_centr,features,all_same,hyd_prop,don_prop,catdon_prop,hydaro_prop,aniacc_prop,clusters,Receptor,hits_actual,score_type,subset,match_features,quality_pred
+1.0299602720521954,-0.8490932230935745,-0.9129709236117195,-0.9714492145898983,0.6090983855865806,1.71690890783814,1.4530475410873915,0.0,-0.22941573387056183,0.5192342694351787,0.3580574370197166,-0.718646005123483,-0.7633700367119739,0.0,0,GPR37_AF,18,dE(class),rec_ef,5,1
